@@ -1,6 +1,6 @@
 <?php
 
-namespace beingnikhilesh\bootstrap4ci\php;
+namespace beingnikhilesh\bootstrapform\php;
 
 ################################################################################
 #
